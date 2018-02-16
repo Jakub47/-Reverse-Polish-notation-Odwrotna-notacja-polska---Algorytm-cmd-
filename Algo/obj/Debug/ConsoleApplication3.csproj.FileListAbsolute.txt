@@ -1,0 +1,30 @@
+C:\Users\Jakub\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Jakub\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Jakub\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Jakub\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Jakub\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Jakub\Desktop\Gotowe\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Jakub\Desktop\Gotowe\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Jakub\Desktop\Gotowe\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Jakub\Desktop\Gotowe\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Jakub\Desktop\Gotowe\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Jakub\Desktop\Gotowe\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Projekt v1.4(Gotowe)\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Jakub\Desktop\Projekt v1.4(Gotowe)\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Jakub\Desktop\Projekt v1.4(Gotowe)\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Jakub\Desktop\Projekt v1.4(Gotowe)\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Jakub\Desktop\Projekt v1.4(Gotowe)\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Jakub\Desktop\Projekt v1.4(Gotowe)\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+F:\Projekt v1.0.4(Gotowe)\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+F:\Projekt v1.0.4(Gotowe)\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+F:\Projekt v1.0.4(Gotowe)\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+F:\Projekt v1.0.4(Gotowe)\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\Projekt v1.0.4(Gotowe)\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\Projekt v1.0.4(Gotowe)\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ragnus\Downloads\Ag\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Ragnus\Downloads\Ag\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Ragnus\Downloads\Ag\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Ragnus\Downloads\Ag\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Ragnus\Downloads\Ag\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Ragnus\Downloads\Ag\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
